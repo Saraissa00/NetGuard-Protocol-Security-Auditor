@@ -21,9 +21,7 @@ Built with pure Python — no external dependencies.
 ```bash
 python web.py
 ```
-Then open `http://localhost:5000` — click **SCAN NETWORK**.
-
-Or just double-click `Run NetGuard.bat` on Windows.
+just double-click `Run NetGuard.bat` on Windows.
 
 **Command-line interface:**
 ```bash
