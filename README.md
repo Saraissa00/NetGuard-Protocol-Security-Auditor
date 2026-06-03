@@ -4,9 +4,11 @@ A DNS hijacking detector that compares your local DNS resolver against Google's 
 
 Built with pure Python — no external dependencies.
 
-## Screenshot
+## Screenshots
 
 ![NetGuard web interface showing the SCAN NETWORK button](screenshot-running.png)
+
+![NetGuard scan result showing SECURE — DNS Verified, no hijacking detected](screenshot-result.png)
 
 ## How It Works
 
