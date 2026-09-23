@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.vscode/
+*driversetchosts*
+SecurePath_Hotspot_Auditor
