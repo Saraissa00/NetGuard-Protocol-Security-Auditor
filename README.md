@@ -52,3 +52,4 @@ python netguard_scanner.py
 - Flask — lightweight web server
 - Layer 3 & Layer 7 DNS verification per RFC
 - Zero external dependencies
+
